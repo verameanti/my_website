@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: https://vera-meanti-website.netlify.app
 languageCode: en-us
-title: Portfolio website for Vera Meanti
+title: Vera Meanti
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
